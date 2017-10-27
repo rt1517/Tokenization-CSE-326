@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508734204 source:/home/optimusprime/Cse 326 RJP /Assignment01/Tokenization/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
